@@ -1,10 +1,13 @@
 # TP JDMI @epita
 
+:warning: The subject is in French
+
 ![TicTaeToe](https://image.noelshack.com/fichiers/2019/08/7/1551032380-epimac-jdmi19.png)
 ## Sujet : TicTacToe
 
-Le but de cette séance de TP est de vous permettre de créer une application iOS : **un jeu du Morpion**. Nous utiliserons pour créer notre application l'IDE d'Apple, *XCode*, ainsi que le langage associé au système, le *Swift*.
-Rassurez-vous, nous ne vous laisserons pas vous débrouiller tout seuls, nous vous avons déjà préparé un projet que vous allez devoir compléter.
+Le but de cette séance de TP est de vous permettre de créer une application iOS : **un jeu du Morpion**. Nous utiliserons pour créer notre application l'IDE d'Apple, *XCode*, ainsi que le langage associé au système, le *Swift*.
+
+Rassurez-vous, nous ne vous laisserons pas vous débrouiller tout seuls, nous vous avons déjà préparé un projet que vous allez devoir compléter.
 
 --
 #### À propos d'EpiMac
